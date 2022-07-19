@@ -6,7 +6,7 @@ For demonstration purpose, only the data of the diseases GERD and Hepatitis C is
 
 The data has been taken from https://www.kaggle.com/itachi9604/disease-symptom-description-dataset.
 
-My Kaggle contribution for this dataset can be viewed at https://www.kaggle.com/code/kunal2350/disease-prediction-with-gui/notebook
+My Kaggle contribution for this dataset can be viewed at https://www.kaggle.com/code/kunal2350/disease-prediction-with-gui/notebook.
 
 <h2>Importing the libraries</h2>
 
