@@ -5,6 +5,7 @@ A disease prediction model working on support vector machine (SVM). It takes the
 For demonstration purpose, only the data of the diseases GERD and Hepatitis C is being sent to the cloud and analysed.
 
 The data has been taken from https://www.kaggle.com/itachi9604/disease-symptom-description-dataset.
+My Kaggle contribution for this dataset can be viewed at https://www.kaggle.com/code/kunal2350/disease-prediction-with-gui/notebook
 
 <h2>Importing the libraries</h2>
 
